@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelSu for Realme X @H1mJT(RMX1901/RMX1901CN)
+kernel.string=KernelSu for Realme X @shrav_1(RMX1901/RMX1901CN)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
