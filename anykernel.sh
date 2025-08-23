@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=BloodMoon KernelSu for Realme X by @IJ_Israfil (RMX1901/RMX1901CN)
+kernel.string=BloodMoon KernelSu for Realme X by @Shravan_SK (RMX1901/RMX1901CN)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=RMX1901CN
 device.name3=realme_sdm710
 device.name4=nicky
 device.name5=xandxt
-supported.versions=11 - 15
+supported.versions=11 - 16
 '; } # end properties
 
 
